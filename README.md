@@ -1,4 +1,6 @@
 # Simple Expo Calculator
 
-![](./assets/image1.png)
-![](./assets/image2.png)
+<div>
+    <img src="./assets/image1.png" width="45%">
+    <img src="./assets/image2.png" width="45%">
+</div>
